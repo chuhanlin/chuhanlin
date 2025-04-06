@@ -1,7 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuhanlin)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuhanlin&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuhanlin&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuhanlin&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuhanlincount_private=true&show_icons=true&theme=radical)
 
 
 ## Hi there 👋
