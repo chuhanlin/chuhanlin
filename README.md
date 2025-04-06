@@ -1,9 +1,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhanlin)](https://github.com/anuraghazra/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=chuhanlin)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=探寻未知+无限可能+人间值得+未来可期)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuhanlin)](https://github.com/anuraghazra/github-readme-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chuhanlin&left_color=green&right_color=red)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chuhanlin)
