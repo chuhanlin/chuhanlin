@@ -5,7 +5,6 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chuhanlin&left_color=green&right_color=red)
-![GitHub Streak](https://streak-stats.demolab.com/?user=chuhanlin)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=探寻未知+无限可能+人间值得+未来可期)
 
 
